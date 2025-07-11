@@ -147,6 +147,7 @@ img {
     display: flex;
     gap: 20px;
     background-color: aliceblue;
+    width: 100%;
 }
 .loved{
     background-color: #FFFFFF80;
@@ -160,7 +161,7 @@ img {
     color: darkorange;
 }
 .design{
-    text-decoration: underline blueviolet;
+  
      font-family: "Inter", sans-serif;
      font-weight: 600;
      font-size: 24px;
@@ -169,13 +170,15 @@ img {
     /* display: flex; */
     display: inline;
      font-family: "Inter", sans-serif;
-     white-space: nowrap;
-     
+     /* white-space: nowrap; */
 
 }
-span{
-    border: 2px solid blueviolet;
+.img-content{
+    display: flex;
+    gap: 20px;
 }
+
+
 .name{
      font-family: "Inter", sans-serif;
      color: #757575;
@@ -244,10 +247,10 @@ label {
 }
 
 .home {
-    display: flex;
+    
     justify-content: space-around;
-    width: 500px;
-    margin: 0 auto;
+   
+ 
     line-height: 3;
 }
 
@@ -256,11 +259,21 @@ label {
     font-family: "Inter", sans-serif;
     line-height: 2;
 }
+.ancor-text ul{
+    display: flex;
+    gap: 50px;
+    margin-left: 400px;
+    line-height: 3;
+}
 
-.home,
-p {
+.ancor-text ul li a{
+    /* display: flex; */
     font-family: "Inter", sans-serif;
     color: #8987A1;
+ 
+}
+.ancor-text ul li{
+       
 }
 .last-frame .logo{
     font-size: 90px;
