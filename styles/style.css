@@ -142,6 +142,52 @@ img {
     color: #00000080;
     margin-top: -25px;
 }
+/* .............frame work3............ */
+.main-loved{
+    display: flex;
+    gap: 20px;
+    background-color: aliceblue;
+}
+.loved{
+    background-color: #FFFFFF80;
+}
+.primary-frame{
+    align-items: center;
+    text-align: center;
+    line-height: 2;
+}
+.icon{
+    color: darkorange;
+}
+.design{
+    text-decoration: underline blueviolet;
+     font-family: "Inter", sans-serif;
+     font-weight: 600;
+     font-size: 24px;
+}
+.template{
+    /* display: flex; */
+    display: inline;
+     font-family: "Inter", sans-serif;
+     font-size: 14px;
+     
+
+}
+span{
+    border: 2px solid blueviolet;
+}
+.name{
+     font-family: "Inter", sans-serif;
+     color: #757575;
+     font-weight: 600;
+}
+.what{
+    font-weight: 700;
+    font-size: 40px;
+}
+.frame-work3{
+     padding: 50px 100px 100px;
+}
 
 /* ..........frame work4........ */
 .data {
