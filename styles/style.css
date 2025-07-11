@@ -74,7 +74,7 @@ nav {
 }
 
 /* .........frame work........ */
-.frame-work {
+.action {
     display: flex;
     justify-content: space-between;
     padding: 100px;
@@ -120,7 +120,7 @@ img {
     border-radius: 20px;
 }
 
-.frame-work2 {
+.productive-user {
     padding: 50px 100px 100px;
     position: relative;
 }
@@ -136,60 +136,70 @@ img {
     color: #4E47FF;
     font-family: "Inter", sans-serif;
 }
-.con{
+
+.con {
     position: absolute;
     font-size: 20px;
     color: #00000080;
     margin-top: -25px;
 }
+
 /* .............frame work3............ */
-.main-loved{
+.main-loved {
     display: flex;
     gap: 20px;
     background-color: aliceblue;
     width: 100%;
 }
-.loved{
+
+.loved {
     background-color: #FFFFFF80;
 }
-.primary-frame{
+
+.primary-frame {
     align-items: center;
     text-align: center;
     line-height: 2;
 }
-.icon{
+
+.icon {
     color: darkorange;
 }
-.design{
-  
-     font-family: "Inter", sans-serif;
-     font-weight: 600;
-     font-size: 24px;
+
+.design {
+
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
 }
-.template{
+
+.template {
     /* display: flex; */
     display: inline;
-     font-family: "Inter", sans-serif;
-     /* white-space: nowrap; */
+    font-family: "Inter", sans-serif;
+    /* white-space: nowrap; */
 
 }
-.img-content{
+
+.img-content {
     display: flex;
     gap: 20px;
 }
 
 
-.name{
-     font-family: "Inter", sans-serif;
-     color: #757575;
-     font-weight: 600;
+.name {
+    font-family: "Inter", sans-serif;
+    color: #757575;
+    font-weight: 600;
 }
-.what{
+
+.what {
     font-weight: 700;
     font-size: 40px;
 }
-.frame-work3{
-     padding: 50px 100px 100px;
+
+.review {
+    padding: 50px 100px 100px;
 }
 
 /* ..........frame work4........ */
@@ -247,10 +257,10 @@ label {
 }
 
 .home {
-    
+
     justify-content: space-around;
-   
- 
+
+
     line-height: 3;
 }
 
@@ -259,22 +269,23 @@ label {
     font-family: "Inter", sans-serif;
     line-height: 2;
 }
-.ancor-text ul{
+
+.ancor-text ul {
     display: flex;
     gap: 50px;
     margin-left: 400px;
     line-height: 3;
 }
 
-.ancor-text ul li a{
+.ancor-text ul li a {
     /* display: flex; */
     font-family: "Inter", sans-serif;
     color: #8987A1;
- 
+
 }
-.ancor-text ul li{
-       
-}
-.last-frame .logo{
+
+.ancor-text ul li {}
+
+.footer .logo {
     font-size: 90px;
 }
